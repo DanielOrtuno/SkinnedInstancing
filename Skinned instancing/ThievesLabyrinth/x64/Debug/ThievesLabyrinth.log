@@ -1,0 +1,22 @@
+﻿  AIManager.cpp
+  AudioManager.cpp
+  BoxCollider.cpp
+  CameraController.cpp
+  CapusleCollider.cpp
+  Collider.cpp
+  ComponentManager.cpp
+  DebugManager.cpp
+  Entity.cpp
+  EntityManager.cpp
+  EventManager.cpp
+  FireDemonController.cpp
+  GUIManager.cpp
+  GameLogic.cpp
+  HUD.cpp
+  InputManager.cpp
+  Level.cpp
+  RenderManager.cpp
+  Slider.cpp
+  Transform.cpp
+  Generating Code...
+  ThievesLabyrinth.vcxproj -> C:\Users\danie\OneDrive\Escritorio\Portfolio\DirectX\Skinned instancing\x64\Debug\ThievesLabyrinth.exe
